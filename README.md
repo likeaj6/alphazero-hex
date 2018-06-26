@@ -1,3 +1,6 @@
+## Read More Here:
+https://notes.jasonljin.com/projects/2018/05/20/Training-AlphaZero-To-Play-Hex.html:
+
 ## Training the neural network
 `hex_zero_model.py` contains the building of the Deep Neural Network used for policy and value prediction.
 `sl_bootstrap.py` contains a script to bootstrap the neural network on existing hex data, calling on hex_zero_model to build the neural net before training the neural net for the specified epochs.
